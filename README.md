@@ -61,7 +61,8 @@
 ## 📫 Contact Me
 
 - 🔗 [LinkedIn Profile](#) : www.linkedin.com/in/ragulraj-c-64a247157
-- 💻 [GitHub Portfolio](#) : Put your GitHub profile link 
+- 💻 [GitHub Portfolio](#) : [Ragul0506](https://github.com/Ragul0506)
+) 
 - 📧 Email                 : sarwanragul65@gmail.com   
 
 ---
