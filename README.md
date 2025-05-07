@@ -31,7 +31,7 @@
   - Set up Jenkins pipeline for automated builds and testing
   - Used multi-stage Docker builds for efficient deployment
   - Deployed the app to AWS EC2 instances
-- **GitHub Link**: [View Pipeline Project](#)
+- **GitHub Link**: https://github.com/Ragul0506/Reactapp-ci-cd_own_project.git
 
 ---
 
