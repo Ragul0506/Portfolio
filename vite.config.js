@@ -10,11 +10,6 @@ export default defineConfig({
           'react-vendor': ['react', 'react-dom'],
           'motion': ['framer-motion'],
           'gateway': ['./src/components/Gateway/GatewayVault'],
-          'projects': [
-            './src/components/Projects/ProjectsSection',
-            './src/components/Projects/CargoModal',
-            './src/components/Projects/HRMSModal',
-          ],
         },
       },
     },
